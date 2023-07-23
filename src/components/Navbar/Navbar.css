@@ -1,0 +1,14 @@
+.navbar-container{
+display: flex;
+background-color: rgb(83, 43, 226);
+padding: 15px 5%; 
+
+}
+
+.navbar-logo {
+    height: 30px; 
+    width: fit-content;
+
+
+
+}
